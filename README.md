@@ -56,8 +56,7 @@
 - https://www.nowcoder.com/discuss/326966?type=2&order=0&pos=39&page=1  
 - https://www.nowcoder.com/discuss/325715?type=2&order=0&pos=40&page=1  
 
-## 网上的C++简历
-- [王浩宇的简历](https://whypro.github.io/hystars/resume.html)
+
 ## 问题整理
 
 ### 语言基础（c++）
